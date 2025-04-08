@@ -4,7 +4,7 @@ I’m a self-taught developer, mom, and creative—building from scratch with co
 
 Right now, I’m:
 - 🍼 Developing **Umbra** – a smart-home control hub for toddler parents
-- 🍞 Building **Sourbuddy** – a voice-guided sourdough starter companion
+
 - 🌐 Designing & coding my own **portfolio website** from the terminal up
 - 🧠 Learning Firebase, JS, Python & backend tools day-by-day
 
